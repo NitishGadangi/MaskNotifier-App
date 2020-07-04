@@ -123,8 +123,6 @@ public class SetGeoFence extends AppCompatActivity implements OnMapReadyCallback
         googleMap.animateCamera(CameraUpdateFactory.newLatLngZoom(latLng, 18));
         googleMap.addMarker(markerOptions);
 
-        
-
         seekBar.setEnabled(true);
         btn_continue.setEnabled(true);
 
