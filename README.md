@@ -1,6 +1,9 @@
 # MaskNotifier-App
 Get automatically notified every time you move out of your home territory, for a small shopping or for a mini-vacation.
 
+![](https://github.com/NitishGadangi/MaskNotifier-App/blob/master/banner.jpg?raw=true)
+
+### [Watch demo video here 📺](https://youtu.be/2WqxYZQEzbs)
 
 ## Inspiration
 
@@ -15,6 +18,10 @@ Mask notifier, automatically notifies you to wear a mask every time you move out
 3.  In the dashboard, you can enable the Automatic Mask Alerts. Moreover, a small live map showing your current position in the GeoFence will be displayed.
 4.  So, using GeoFence you provided, every time you walk out of your home territory, you will get a notification to wear a mask. Also, all these notifications will be saved under the notifications section in the dashboard.
 5.  Finally, you can edit your GeoFence anytime you need, from the dashboard itself. All these transactions will be taken place within the user’s local device there is no issue with privacy.
+
+## Screenshots
+![](https://github.com/NitishGadangi/MaskNotifier-App/blob/master/ss1.jpg?raw=true)
+![](https://github.com/NitishGadangi/MaskNotifier-App/blob/master/ss2.jpg?raw=true)
 
 ## How I built it
 
