@@ -1,5 +1,9 @@
 # MaskNotifier-App
 Get automatically notified every time you move out of your home territory, for a small shopping or for a mini-vacation.
+```
+This is just a conceptual prototype
+Complete practical build is still under development
+```
 
 ![](https://github.com/NitishGadangi/MaskNotifier-App/blob/master/banner.jpg?raw=true)
 
